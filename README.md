@@ -134,3 +134,8 @@ Notes:
 - Commissions are entered as percentages and applied to winnings
 - The underlay/overlay slider adjusts the unrounded lay stake before rounding to 2 decimal places
 - Total profit is shown as the lower of the two final rounded outcomes
+
+## License
+
+This project is licensed under the GNU General Public License v3.0.
+See [LICENSE](LICENSE) for the full text.

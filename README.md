@@ -6,7 +6,7 @@ If you're using this calculator for matched betting, you can find current UK fre
 
 [UK free bet offers](https://ukfreebetoffers.co.uk)
 
-![Calculator Screenshot](images/darkmode.png)
+![Calculator Screenshot](images/dark-mode.png)
 
 ## Features
 
